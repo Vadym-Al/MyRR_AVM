@@ -1,1 +1,1 @@
-Vadym Aldyk 
+Vadym Aldyk KN-222c
