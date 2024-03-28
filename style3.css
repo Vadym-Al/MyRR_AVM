@@ -1,0 +1,28 @@
+/* Styles for the images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+/* Style for the h1 heading */
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Additional styles for body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+/* Just a comment */
